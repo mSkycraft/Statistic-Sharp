@@ -1,0 +1,15 @@
+C:\Users\VIX\Desktop\Statistic Sharp\bin\Debug\net6.0\Statistic Sharp.exe
+C:\Users\VIX\Desktop\Statistic Sharp\bin\Debug\net6.0\Statistic Sharp.deps.json
+C:\Users\VIX\Desktop\Statistic Sharp\bin\Debug\net6.0\Statistic Sharp.runtimeconfig.json
+C:\Users\VIX\Desktop\Statistic Sharp\bin\Debug\net6.0\Statistic Sharp.dll
+C:\Users\VIX\Desktop\Statistic Sharp\bin\Debug\net6.0\Statistic Sharp.pdb
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.csproj.AssemblyReference.cache
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.AssemblyInfoInputs.cache
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.AssemblyInfo.cs
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.csproj.CoreCompileInputs.cache
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.dll
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\refint\Statistic Sharp.dll
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.pdb
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\Statistic Sharp.genruntimeconfig.cache
+C:\Users\VIX\Desktop\Statistic Sharp\obj\Debug\net6.0\ref\Statistic Sharp.dll
